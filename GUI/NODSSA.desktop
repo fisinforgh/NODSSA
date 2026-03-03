@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=NODSSA
+Exec=/RUTA/ABSOLUTA/NODSSA/NODSSA
+Icon=/RUTA/ABSOLUTA/NODSSA/ComparadorOzono/app/assets/icon.png
+Terminal=false
+Categories=Science;Education;

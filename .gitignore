@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Envs
+.venv/
+venv/
+env/
+conda/
+*.conda
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PyInstaller / builds
+build/
+dist/
+*.spec
+GUI/build/
+GUI/dist/
+
+# Logs / outputs
+*.log
+out_plots/
+GUI/ComparadorOzono/out_plots/
+
+# Data (ajusta según tu caso)
+data/
+sample_data_large/
+*.he5
+*.h5
+*.hdf5
+*.nc
+*.parquet
+*.csv
+
+# Archives
+*.zip
+*.tar.gz
